@@ -46,6 +46,20 @@ I am a passionate and dedicated Computer Science student with a keen interest in
 - **Bachelor's Degree in Computer Science** (University of Marília, 2024 - Present)
   - Relevant courses: Data Structures, Algorithms, Artificial Intelligence, etc. 📚
 
+<p align="center">
+  <a href="https://github.com/Mattos-Soph" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+
+
 ![GIF Animado](https://media.giphy.com/media/fX819mkCQSKoWOmrDy/giphy.gif)
 
 
