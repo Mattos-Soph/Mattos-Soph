@@ -15,7 +15,11 @@ int main() {
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattos-Soph&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattos-Soph&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
 
 
 ### About Me
