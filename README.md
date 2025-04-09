@@ -39,10 +39,4 @@ I am a passionate and dedicated Computer Science student with a keen interest in
 
 ![GIF Animado](https://media.giphy.com/media/fX819mkCQSKoWOmrDy/giphy.gif)
 
-#SEU PERFIL É LINDO
-
-![Texto alternativo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl0bW1wOG96NjcwaHhpZHdvdml3dnZ5MWhneXpuNWY2dGw4dWdxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XUJc51LTanvy/giphy.gif)
-
-
-![Texto alternativo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk0M2V0Z293cTA1NGVvb2czZjV4OHpsd2dqMHl5bHYyNzZvNmhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQPRXqTQu1hxut85sV/giphy.gif)
 
