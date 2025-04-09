@@ -1,6 +1,6 @@
 # 💻 Sophia Mattos 💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE2995&width=435&lines=Sophia+Mattos;A+curious+and+eager-to-learn+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BE2995&background=3AE4FF00&width=435&lines=A+curious+and+eager-to-learn+student.)](https://git.io/typing-svg)
 
 <br><br>
 
