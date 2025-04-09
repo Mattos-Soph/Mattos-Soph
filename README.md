@@ -13,6 +13,9 @@ int main() {
 }
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattos-Soph&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### About Me
 I am a passionate and dedicated Computer Science student with a keen interest in programming and technology. Currently pursuing my studies at the University of Marília, I am constantly improving my skills and learning new technologies. 💡
 
