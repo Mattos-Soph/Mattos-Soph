@@ -1,7 +1,8 @@
 <h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxNTdzZjNhZ2ppejYyMXBmcHJneXB5aXl6MDdmeW8yNXVkMjBmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="50" style="vertical-align:middle"/>
-  Sophia Mattos 
+  <span style="font-size:60px; vertical-align:middle;">Sophia Mattos</span>
 </h1>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arizonia&size=30&pause=1000&color=FFCBD6&width=435&lines=A+curious+and+eager-to-learn+student)](https://git.io/typing-svg)
 
