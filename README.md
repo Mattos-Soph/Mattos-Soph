@@ -1,8 +1,9 @@
 <h1>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxNTdzZjNhZ2ppejYyMXBmcHJneXB5aXl6MDdmeW8yNXVkMjBmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="50" style="vertical-align:middle"/>
-  <span style="font-size:60px; vertical-align:middle;">Sophia Mattos</span>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxNTdzZjNhZ2ppejYyMXBmcHJneXB5aXl6MDdmeW8yNXVkMjBmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="40" style="vertical-align:middle"/>
+  <span style="font-size:80px; vertical-align:middle;">Sophia Mattos</span>
 </h1>
 
+<img src="https://i.imgur.com/nY6V4zm.gif" width="415" style="vertical-align:middle"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arizonia&size=30&pause=1000&color=FFCBD6&width=435&lines=A+curious+and+eager-to-learn+student)](https://git.io/typing-svg)
 
@@ -48,7 +49,7 @@ I am a passionate and dedicated Computer Science student with a keen interest in
   <a href="https://github.com/Mattos-Soph" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="www.linkedin.com/in/mattos-sophia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/SEU_USUARIO" target="_blank">
@@ -58,6 +59,5 @@ I am a passionate and dedicated Computer Science student with a keen interest in
 
 
 
-![GIF Animado](https://media.giphy.com/media/fX819mkCQSKoWOmrDy/giphy.gif)
 
 
