@@ -1,38 +1,38 @@
 <h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxNTdzZjNhZ2ppejYyMXBmcHJneXB5aXl6MDdmeW8yNXVkMjBmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="40" style="vertical-align:middle"/>
-  <span style="font-size:80px; vertical-align:middle;"> Welcome to my cozy repo ✨🌙 </span>
+  <span style="font-size:80px; vertical-align:middle;"> Welcome! ✨🌙 </span>
 </h1>
 
-<img src="https://i.imgur.com/nY6V4zm.gif" width="415" style="vertical-align:middle"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px; text-align: left; font-size: 18px;">
+    <h2>🌸 About Me</h2>
+    <p>
+      I am a passionate and dedicated Computer Science student with a keen interest in programming and technology. 
+      Currently pursuing my studies at the University of Marília, I am constantly improving my skills and learning new technologies. 💡
+    </p>
+    <p>
+      ✨ Interests: Programming, Data Science, AI, Creative Tech <br>
+      🌙 Hobbies: Learning languages, anime, design, exploring tech trends
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://i.imgur.com/nY6V4zm.gif" width="400" style="border: 3px solid #F8C8DC; border-radius: 15px;"/>
+  </div>
+
+</div>
+
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arizonia&size=30&pause=1000&color=FFCBD6&width=435&lines=A+curious+and+eager-to-learn+student)](https://git.io/typing-svg)
 
-
 <br><br>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattos-Soph&layout=compact&hide_border=true&bg_color=5a4b63&title_color=F8C8DC&text_color=F8C8DC" alt="Top Langs" />
-  </a>
-</p>
-
-
-
-
-
-### About Me
-I am a passionate and dedicated Computer Science student with a keen interest in programming and technology. Currently pursuing my studies at the University of Marília, I am constantly improving my skills and learning new technologies. 💡
-
-<br><br>
-
-## 🔧 Skills
-
-- 🐍 __Python__: Intermediate 
-- ☕ __Java__: Beginner 
-- 💻 __C__: Beginner 
-- 📊 __Power BI__: Beginner 
-- 🔌 __Arduino__: Intermediate 
-
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mattos-Soph&show_icons=true&theme=radical&hide_border=true&title_color=F8C8DC&text_color=F8C8DC&icon_color=F8C8DC" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattos-Soph&layout=compact&hide_border=true&bg_color=5a4b63&title_color=F8C8DC&text_color=F8C8DC" alt="Top Langs" />
+</div>
 
 <br><br>
 
@@ -44,7 +44,7 @@ I am a passionate and dedicated Computer Science student with a keen interest in
   <a href="https://github.com/Mattos-Soph" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/mattos-sophia" target="_blank">
+  <a href="https://www.linkedin.com/in/mattos-sophia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/SEU_USUARIO" target="_blank">
@@ -52,7 +52,13 @@ I am a passionate and dedicated Computer Science student with a keen interest in
   </a>
 </p>
 
+<br>
 
-
-
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+</p>
