@@ -1,28 +1,23 @@
 <h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxNTdzZjNhZ2ppejYyMXBmcHJneXB5aXl6MDdmeW8yNXVkMjBmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="40" style="vertical-align:middle"/>
-  <span style="font-size:80px; vertical-align:middle;">Sophia Mattos</span>
+  <span style="font-size:80px; vertical-align:middle;"> Welcome to my cozy repo ✨🌙 </span>
 </h1>
 
 <img src="https://i.imgur.com/nY6V4zm.gif" width="415" style="vertical-align:middle"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arizonia&size=30&pause=1000&color=FFCBD6&width=435&lines=A+curious+and+eager-to-learn+student)](https://git.io/typing-svg)
 
-```C
-#include <stdio.h>
-
-int main() {
-    printf("📄 My CV  ― Computer Science student at the University of Marília\n");
-    return 0;
-}
-```
 
 <br><br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattos-Soph&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattos-Soph&layout=compact&hide_border=true&bg_color=5a4b63&title_color=F8C8DC&text_color=F8C8DC" alt="Top Langs" />
   </a>
 </p>
+
+
+
 
 
 ### About Me
