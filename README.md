@@ -47,6 +47,9 @@
 
 <br>
 
+![Snake pink](https://github.com/Mattos-Soph/Mattos-Soph/blob/output/snake-pink.gif)
+<br>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -56,8 +59,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
 </p>
 
-<!-- Alternativa (comentada) usando uma div "flutuante":
-<div style="float:right; margin:0 0 15px 25px;">
-  <img src="https://i.imgur.com/nY6V4zm.gif" width="300" alt="Animated aesthetic gif" style="border:3px solid #F8C8DC; border-radius:15px;">
-</div>
--->
