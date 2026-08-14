@@ -67,7 +67,10 @@ Currently, I'm expanding my knowledge through personal, academic, and real-world
 ---
 
 🐍 My Contributions
-<p align="center"> <img src="https://github.com/Mattos-Soph/Mattos-Soph/blob/output/snake-pink.gif" alt="GitHub contribution snake" /> </p>
+<p align="center"> <img
+  src="https://raw.githubusercontent.com/Mattos-Soph/Mattos-Soph/output/snake-pink.svg"
+  alt="GitHub contribution snake"
+/> </p>
 💌 Let's Connect
 <p align="center"> <a href="https://github.com/Mattos-Soph"> <img src="https://img.shields.io/badge/GitHub-5A4B63?style=for-the-badge&logo=github&logoColor=FFCBD6" alt="GitHub"/> </a> &nbsp; <a href="https://www.linkedin.com/in/mattos-sophia"> <img src="https://img.shields.io/badge/LinkedIn-FFCBD6?style=for-the-badge&logo=linkedin&logoColor=5A4B63" alt="LinkedIn"/> </a> </p> <br> <p align="center"> <i>✨ Building, learning and turning ideas into code. 🌙</i> </p> ```
 
