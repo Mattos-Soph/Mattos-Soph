@@ -22,10 +22,10 @@ jobs:
         with:
           github_user_name: Mattos-Soph
           outputs: |
-            dist/snake-pink.svg?color_snake=F8C8DC&color_dots=#FFE5EF,#FFC9DE,#FFABC9,#FF8BB3,#FF6A9D
+            dist/snake-pink.svg?color_snake=#FFCBD6&color_dots=#5A4B63,#9A6F8F,#C987A6,#F48FB1,#E96A98
             dist/snake.svg?palette=github-light
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-pink.gif?color_snake=F8C8DC&color_dots=#FFE5EF,#FFC9DE,#FFABC9,#FF8BB3,#FF6A9D
+            dist/snake-pink.gif?color_snake=#FFCBD6&color_dots=#5A4B63,#9A6F8F,#C987A6,#F48FB1,#E96A98
 
       - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
