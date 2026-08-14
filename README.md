@@ -19,15 +19,15 @@
 
 ## 🌸 About Me
 
-I'm a **Computer Science student** at the University of Marília, interested in building software that combines **technology, problem-solving and creativity**.
+I'm a **Computer Science student** at the University of Marília, interested in building software that combines **technology, problem-solving, and creativity**.
 
-I especially enjoy working with **Python, Artificial Intelligence and automation**, turning real-world problems into practical tools and applications.
+I especially enjoy working with **Python, Artificial Intelligence, and automation**, turning real-world problems into practical tools and applications.
 
-Currently, I'm expanding my knowledge through personal, academic and real-world projects while exploring different areas of software development.
+Currently, I'm expanding my knowledge through personal, academic, and real-world projects while exploring different areas of software development.
 
 ✨ **Currently interested in:** Python, AI, Automation & Creative Tech  
 🌙 **Also exploring:** Mobile Development, UI/UX & Data  
-🌱 **Always learning:** New technologies, languages and ways to build better software
+🌱 **Always learning:** New technologies, languages, and ways to build better software
 
 <br clear="right">
 
@@ -66,6 +66,13 @@ Currently, I'm expanding my knowledge through personal, academic and real-world 
 
 ---
 
+🐍 My Contributions
+<p align="center"> <img src="https://github.com/Mattos-Soph/Mattos-Soph/blob/output/snake-pink.gif" alt="GitHub contribution snake" /> </p>
+💌 Let's Connect
+<p align="center"> <a href="https://github.com/Mattos-Soph"> <img src="https://img.shields.io/badge/GitHub-5A4B63?style=for-the-badge&logo=github&logoColor=FFCBD6" alt="GitHub"/> </a> &nbsp; <a href="https://www.linkedin.com/in/mattos-sophia"> <img src="https://img.shields.io/badge/LinkedIn-FFCBD6?style=for-the-badge&logo=linkedin&logoColor=5A4B63" alt="LinkedIn"/> </a> </p> <br> <p align="center"> <i>✨ Building, learning and turning ideas into code. 🌙</i> </p> ```
+
+---
+
 ## 🌙 Featured Projects
 
 ### 📚 Engineering Standards AI
@@ -90,9 +97,9 @@ The goal is to reduce manual verification by identifying modifications while fil
 
 ### 📱 Smart Book Planner
 
-A mobile application for planning book purchases, managing wishlists and keeping track of a personal budget.
+A mobile application for planning book purchases, managing wishlists, and keeping track of a personal budget.
 
-The project explores price comparison, purchase optimization and book data APIs.
+The project explores price comparison, purchase optimization, and book data APIs.
 
 `Flutter` `Python` `APIs` `Data`
 
@@ -100,7 +107,7 @@ The project explores price comparison, purchase optimization and book data APIs.
 
 ### ⚡ PokéTeam
 
-A Python project built around the PokéAPI to practice API consumption, data processing and application structure.
+A Python project built around the PokéAPI to practice API consumption, data processing, and application structure.
 
 `Python` `REST API` `PokéAPI`
 
@@ -113,7 +120,8 @@ University of Marília — UNIMAR
 
 `2024 — 2027`
 
-Focused on software development, algorithms, data structures, artificial intelligence and computing fundamentals.
+Focused on software development, algorithms, data structures, artificial intelligence, and computing fundamentals.
+
 
 ---
 
