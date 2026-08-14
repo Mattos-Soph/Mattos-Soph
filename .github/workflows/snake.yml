@@ -11,21 +11,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate multiple snake variants
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Mattos-Soph
           outputs: |
-            dist/snake-pink.svg?color_snake=#FFCBD6&color_dots=#5A4B63,#9A6F8F,#C987A6,#F48FB1,#E96A98
+            dist/snake-pink.svg?color_snake=#FFCBD6&color_dots=#5A4B63,#F8C8DC,#F3A6C1,#ED82AA,#E85D94
+            dist/snake-pink.gif?color_snake=#FFCBD6&color_dots=#5A4B63,#F8C8DC,#F3A6C1,#ED82AA,#E85D94
+
             dist/snake.svg?palette=github-light
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-pink.gif?color_snake=#FFCBD6&color_dots=#5A4B63,#9A6F8F,#C987A6,#F48FB1,#E96A98
 
       - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
